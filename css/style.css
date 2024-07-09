@@ -504,7 +504,7 @@ input[type="checkbox"] {
 .tf__service {
   background: var(
     --background-brand-2,
-    linear-gradient(102deg, #dbe5ea -7.72%, #c5d1e6 86.48%)
+    linear-gradient(102deg, #eaf1f5 -7.72%, #c5ccd8 86.48%)
   );
   border-radius: 40px 40px 0px 0px;
   -webkit-border-radius: 40px 40px 0px 0px;
@@ -873,7 +873,7 @@ input[type="checkbox"] {
   border-radius: 40px 40px 0px 0px;
   background: var(
     --background-brand-2,
-    linear-gradient(102deg, #DBF0FD -7.72%, #B6D1FF 86.48%)
+    linear-gradient(102deg, #f0f9ff -7.72%, #dbe8ff 86.48%)
   );
 }
 
@@ -1171,7 +1171,7 @@ input[type="checkbox"] {
   border-radius: 40px 40px 0px 0px;
   background: var(
     --background-brand-2,
-    linear-gradient(102deg, #dbf1c3 -7.72%, #dce7e3 86.48%)
+    linear-gradient(102deg, #d5d9f5 -7.72%, #bce1f2 86.48%)
   );
 }
 
