@@ -1,5 +1,5 @@
 /* ***************************************
-Template Name: Contis.ai - AI Content Writing HTML Template
+Template Name: Pepgage - AI Content Writing HTML Template
 Author:  
 Author E
 website: 
@@ -32,7 +32,7 @@ CSS TABLE OF CONTENTS
 }
 
 :root {
-  --colorPrimary: #ff8565;
+  --colorPrimary: #FF7A19;
   --colorSecondary: #111013;
   --colorWhite: #ffffff;
   --paraColor: #5c728e;
@@ -41,10 +41,10 @@ CSS TABLE OF CONTENTS
   --boxShadow: 0px 4px 12px 0px rgba(17, 16, 19, 0.1);
   --gradiantBg: linear-gradient(
     45deg,
-    #cdfff1 0%,
-    rgba(203, 245, 246, 0.73) 28.13%,
-    rgba(240, 251, 224, 0.8) 79.75%,
-    #f8ffda 100%
+    #C4E9FF 0%,
+    rgba(196, 233, 255, 0.73) 28.13%,
+    rgba(189, 201, 255, 0.8) 79.75%,
+    #BDC9FF 100%
   );
 }
 
@@ -504,7 +504,7 @@ input[type="checkbox"] {
 .tf__service {
   background: var(
     --background-brand-2,
-    linear-gradient(102deg, #dbf1c3 -7.72%, #dce7e3 86.48%)
+    linear-gradient(102deg, #dbe5ea -7.72%, #c5d1e6 86.48%)
   );
   border-radius: 40px 40px 0px 0px;
   -webkit-border-radius: 40px 40px 0px 0px;
@@ -873,7 +873,7 @@ input[type="checkbox"] {
   border-radius: 40px 40px 0px 0px;
   background: var(
     --background-brand-2,
-    linear-gradient(102deg, #dbf1c3 -7.72%, #dce7e3 86.48%)
+    linear-gradient(102deg, #DBF0FD -7.72%, #B6D1FF 86.48%)
   );
 }
 
